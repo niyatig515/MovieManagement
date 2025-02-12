@@ -1,0 +1,7 @@
+C:\Users\niyati_gupta\source\repos\PracticeAssignment2\PracticeAssignment2\bin\Debug\PracticeAssignment2.exe.config
+C:\Users\niyati_gupta\source\repos\PracticeAssignment2\PracticeAssignment2\bin\Debug\PracticeAssignment2.exe
+C:\Users\niyati_gupta\source\repos\PracticeAssignment2\PracticeAssignment2\bin\Debug\PracticeAssignment2.pdb
+C:\Users\niyati_gupta\source\repos\PracticeAssignment2\PracticeAssignment2\obj\Debug\PracticeAssignment2.csproj.AssemblyReference.cache
+C:\Users\niyati_gupta\source\repos\PracticeAssignment2\PracticeAssignment2\obj\Debug\PracticeAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\niyati_gupta\source\repos\PracticeAssignment2\PracticeAssignment2\obj\Debug\PracticeAssignment2.exe
+C:\Users\niyati_gupta\source\repos\PracticeAssignment2\PracticeAssignment2\obj\Debug\PracticeAssignment2.pdb
